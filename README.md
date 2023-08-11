@@ -11,7 +11,7 @@
 #### Contact Info
 - 📫 Reach out to me : [LinkedIn](https://www.linkedin.com/in/islomilkhomov/)
 - 🚀 My website : Soon....
-- ✏️ My Blog in English and Uzbek: [Islom Notes](https://t.me/Islom_Ilkhomov)
+- ✏️ My Blog in English and Uzbek: [Islom notes](https://t.me/Islom_notes)
 
 <a href="https://github.com/islomilkhomov/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=islomilkhomov&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
